@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 // Java program to calculate MD5 hash value
-public class a7_Assignment_MD5 {
+public class p5MD5 {
     public static String getMd5(String input) {
         try {
             // Static getInstance method is called with hashing MD5
