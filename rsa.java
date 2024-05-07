@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.security.SecureRandom;
 
-//Program From https://github.com/shreyas5522/information-security/
+
 
 public class a5_Assignment_RSA {
     private BigInteger n, d, e;
