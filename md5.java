@@ -3,7 +3,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
-//Program From https://github.com/shreyas5522/information-security/
+
 
 // Java program to calculate MD5 hash value
 public class a7_Assignment_MD5 {
